@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shich\\OneDrive\\Desktop\\C#\\CreatingWPFToDoList\\Globomantics.Windows\\Globomantics.Windows.csproj": {}
+    "C:\\Users\\shich\\OneDrive\\Desktop\\C#\\CreatingWPFToDoList\\Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj": {}
   },
   "projects": {
     "C:\\Users\\shich\\OneDrive\\Desktop\\C#\\CreatingWPFToDoList\\Globomantics.Domain\\Globomantics.Domain.csproj": {
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\shich\\OneDrive\\Desktop\\C#\\CreatingWPFToDoList\\Globomantics.Windows\\Globomantics.Windows.csproj": {
+    "C:\\Users\\shich\\OneDrive\\Desktop\\C#\\CreatingWPFToDoList\\Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shich\\OneDrive\\Desktop\\C#\\CreatingWPFToDoList\\Globomantics.Windows\\Globomantics.Windows.csproj",
-        "projectName": "Globomantics.Windows",
-        "projectPath": "C:\\Users\\shich\\OneDrive\\Desktop\\C#\\CreatingWPFToDoList\\Globomantics.Windows\\Globomantics.Windows.csproj",
+        "projectUniqueName": "C:\\Users\\shich\\OneDrive\\Desktop\\C#\\CreatingWPFToDoList\\Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj",
+        "projectName": "Globomantics.Infrastructure",
+        "projectPath": "C:\\Users\\shich\\OneDrive\\Desktop\\C#\\CreatingWPFToDoList\\Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\shich\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shich\\OneDrive\\Desktop\\C#\\CreatingWPFToDoList\\Globomantics.Windows\\obj\\",
+        "outputPath": "C:\\Users\\shich\\OneDrive\\Desktop\\C#\\CreatingWPFToDoList\\Globomantics.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -82,7 +82,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -90,8 +90,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0-windows7.0": {
-            "targetAlias": "net6.0-windows",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
               "C:\\Users\\shich\\OneDrive\\Desktop\\C#\\CreatingWPFToDoList\\Globomantics.Domain\\Globomantics.Domain.csproj": {
                 "projectPath": "C:\\Users\\shich\\OneDrive\\Desktop\\C#\\CreatingWPFToDoList\\Globomantics.Domain\\Globomantics.Domain.csproj"
@@ -106,26 +106,8 @@
         }
       },
       "frameworks": {
-        "net6.0-windows7.0": {
-          "targetAlias": "net6.0-windows",
-          "dependencies": {
-            "CommunityToolkit.Mvvm": {
-              "target": "Package",
-              "version": "[8.2.0, )"
-            },
-            "Microsoft.Extensions.Configuration": {
-              "target": "Package",
-              "version": "[7.0.0, )"
-            },
-            "Microsoft.Extensions.DependencyInjection": {
-              "target": "Package",
-              "version": "[7.0.0, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.3, )"
-            }
-          },
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -140,9 +122,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WPF": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
