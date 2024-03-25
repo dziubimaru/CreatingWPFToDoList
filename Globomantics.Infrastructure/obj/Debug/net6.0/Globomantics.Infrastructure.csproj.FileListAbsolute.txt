@@ -1,0 +1,15 @@
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Infrastructure\obj\Debug\net6.0\Globomantics.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Infrastructure\obj\Debug\net6.0\Globomantics.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Infrastructure\obj\Debug\net6.0\Globomantics.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Infrastructure\obj\Debug\net6.0\Globomantics.Infrastructure.AssemblyInfo.cs
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Infrastructure\obj\Debug\net6.0\Globomantics.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Infrastructure\bin\Debug\net6.0\Globomantics.Infrastructure.deps.json
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Infrastructure\bin\Debug\net6.0\Globomantics.Infrastructure.dll
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Infrastructure\bin\Debug\net6.0\Globomantics.Infrastructure.pdb
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Infrastructure\bin\Debug\net6.0\Globomantics.Domain.dll
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Infrastructure\bin\Debug\net6.0\Globomantics.Domain.pdb
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Infrastructure\obj\Debug\net6.0\Globomantics.Infrastructure.csproj.CopyComplete
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Infrastructure\obj\Debug\net6.0\Globomantics.Infrastructure.dll
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Infrastructure\obj\Debug\net6.0\refint\Globomantics.Infrastructure.dll
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Infrastructure\obj\Debug\net6.0\Globomantics.Infrastructure.pdb
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Infrastructure\obj\Debug\net6.0\ref\Globomantics.Infrastructure.dll

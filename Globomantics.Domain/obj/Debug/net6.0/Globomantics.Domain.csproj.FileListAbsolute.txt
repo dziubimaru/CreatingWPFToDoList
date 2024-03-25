@@ -1,0 +1,12 @@
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Domain\obj\Debug\net6.0\Globomantics.Domain.csproj.AssemblyReference.cache
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Domain\obj\Debug\net6.0\Globomantics.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Domain\obj\Debug\net6.0\Globomantics.Domain.AssemblyInfoInputs.cache
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Domain\obj\Debug\net6.0\Globomantics.Domain.AssemblyInfo.cs
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Domain\obj\Debug\net6.0\Globomantics.Domain.csproj.CoreCompileInputs.cache
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Domain\bin\Debug\net6.0\Globomantics.Domain.deps.json
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Domain\bin\Debug\net6.0\Globomantics.Domain.dll
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Domain\bin\Debug\net6.0\Globomantics.Domain.pdb
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Domain\obj\Debug\net6.0\Globomantics.Domain.dll
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Domain\obj\Debug\net6.0\refint\Globomantics.Domain.dll
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Domain\obj\Debug\net6.0\Globomantics.Domain.pdb
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Domain\obj\Debug\net6.0\ref\Globomantics.Domain.dll

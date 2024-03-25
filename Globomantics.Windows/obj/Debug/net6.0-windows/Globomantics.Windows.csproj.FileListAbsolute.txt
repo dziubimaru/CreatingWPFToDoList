@@ -32,3 +32,5 @@ C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Windows\obj\
 C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Windows\obj\Debug\net6.0-windows\Globomantics.Windows.pdb
 C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Windows\obj\Debug\net6.0-windows\Globomantics.Windows.genruntimeconfig.cache
 C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Windows\obj\Debug\net6.0-windows\ref\Globomantics.Windows.dll
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Windows\bin\Debug\net6.0-windows\Globomantics.Domain.dll
+C:\Users\shich\OneDrive\Desktop\C#\CreatingWPFToDoList\Globomantics.Windows\bin\Debug\net6.0-windows\Globomantics.Domain.pdb
