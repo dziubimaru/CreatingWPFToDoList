@@ -10,6 +10,7 @@
         "dependencies": {
           "CommunityToolkit.Mvvm": "8.2.0",
           "Globomantics.Domain": "1.0.0",
+          "Globomantics.Infrastructure": "1.0.0",
           "Microsoft.Extensions.Configuration": "7.0.0",
           "Microsoft.Extensions.DependencyInjection": "7.0.0",
           "Newtonsoft.Json": "13.0.3"
@@ -92,6 +93,14 @@
         "runtime": {
           "Globomantics.Domain.dll": {}
         }
+      },
+      "Globomantics.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Globomantics.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Globomantics.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -158,6 +167,11 @@
       "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
     },
     "Globomantics.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Globomantics.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
